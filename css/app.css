@@ -1,0 +1,226 @@
+
+section.header{
+    color:#fff;
+    background-image:url("../images/general/BackLockedScreen3.jpg");
+    margin-bottom: 2em;
+    font-family: font-family: 'Wire One', sans-serif;
+}
+
+section.header img{
+    position:absolute;
+    right:0;
+    bottom:-5em;
+    display:block
+}
+
+.shadowdiv{
+    box-shadow:0 2px 8px rgba(0,0,0,.6);
+    padding: 10px;
+}
+
+section.header .slogan{
+    font-size:3.4em;
+    font-family: 'Wire One', sans-serif;
+    width:auto;
+    line-height:100%;
+    margin-top:1.3em;
+    margin-bottom:0.8em;
+    text-align: center
+}
+
+section.header .subtitle{
+    font-size:1.1em;
+    margin-top:1em;
+    line-height:auto;
+    font-family: 'Wire One', sans-serif;
+}
+.mySign{
+font-family: 'Great Vibes', cursive;
+    font-size: 2em;
+    
+}
+
+.btnAssistance{
+    /*background-color:#b4ae24;*/
+    color:#b4ae24;
+    width:22px;
+    height:auto;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 20px;
+    display:inline;
+}
+
+.assistance{
+    width:33px;
+    height:auto;
+}
+
+section.newsletter{
+    text-align: center;
+    height: auto;
+    padding-bottom: 5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    
+}
+.mySign{
+    text-align: right;
+    height: 60px;
+    font-family: 'Wire One', sans-serif;
+    : 
+}
+
+section.header .container{
+    width:auto;
+    height:auto
+}
+
+.customers-logo {
+    margin:0.1em;
+    display:block;
+    text-align: center
+}
+
+.iconemetier{
+    width: 70px;
+    height: 70px;
+    fill:#b4ae24;
+}
+
+section.itemsBI{
+    padding: 10px;
+    text-shadow: 20px 10px 20px black;
+}
+
+.iconeEmail{
+    width: 100px;
+    height: 100px;
+    color: #b4ae24;
+    fill: #b4ae24;
+}
+
+.iconeEmail:hover{
+    width: 102px;
+    height:120px;
+    transition-duration: 0.8s;
+}
+
+.textProjet{
+    text-align: center;
+}
+
+.iconeProjet{
+    width: auto;
+    height: 210px;
+    /*margin-left: auto;
+    margin-right: auto;
+    display: block;*/
+}
+
+.partners-logo {
+    margin:1em;
+    display:flex;
+    text-align: center;
+}
+
+.item img {
+    width:250px
+}
+
+nav #menu-button svg{
+    margin:0;
+    width:100%;
+    float:right;
+    display:block;
+    color:#b4ae24;
+}
+
+nav #menu-button p{
+    display:none;
+}
+section.METIERS{
+    margin-bottom: 0em;
+}
+h2{
+    margin-bottom:0.1em;
+    color:#b4ae24;
+    text-align:center;
+    font-size: 2.2em;
+}
+
+h3{
+    color:#b4ae24;
+}
+
+p{
+    text-align:center;
+    font-size: 1.2em;
+}
+section.itemsCRM{padding-top:0}
+
+section.itemsBI{padding-top:0}
+
+section.courrier{
+    color:#fff;
+    background-image:url("../images/general/BackLockedScreen3.jpg");
+    padding: 10px;
+    height: auto;
+    
+}
+.courriertext {
+    color: #fff;
+    text-align: center;
+    font-family: 'Wire One', sans-serif;
+}
+.btnAssistance{
+    height:77px;
+    width:auto;
+}
+.newsletter-form input#nom{
+    display:inline-block;
+    border-radius:0.4em 0 0 0.4em;
+    -moz-border-radius:15px;-webkit-border-radius:15px;
+    margin-bottom: 15px;
+}
+.newsletter-form input#telephone{
+    display:block;
+    border-radius:0.4em 0 0 0.4em;
+    -moz-border-radius:15px;-webkit-border-radius:15px;
+    margin-bottom: 15px;
+}
+.shadowchamp{
+    box-shadow:0 2px 8px rgba(0,0,0,.6);
+    padding: 10px;
+}
+
+.myLetter{
+    font-family: 'Wire One', sans-serif;
+    font-size: 1.4em;
+    margin-bottom: auto;
+    
+}
+    
+}
+.imgcourrier{
+    width:auto;
+    height:77px;
+
+
+}
+footer{
+    background-color:#353638;
+    height:auto;
+    padding-top:5em;
+    padding-bottom:2em;
+}
+footer .container{
+    padding-top:0;
+    background-color:transparent;
+}
+footer p {
+    margin: 2em;
+    line-height: 3em;
+    text-align: center;
+
+}

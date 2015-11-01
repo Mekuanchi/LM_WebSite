@@ -81,7 +81,9 @@ div.sticky-wrapper nav{
     font-size:0.95em
 }
 div.sticky-wrapper nav svg,div.sticky-wrapper nav img.icone{
-    fill:#fff
+    fill:#b4ae24;
+    padding-right: 5px;
+    margin-right:10px;
 }
 div.sticky-wrapper nav .container{
     position:relative;
@@ -90,11 +92,13 @@ div.sticky-wrapper nav .container{
 }
 div.sticky-wrapper nav .container .image{
     height:55px;
-    display:inline-block
+    display:inline-block;
+    padding-right: 10px;
+    
 }
 div.sticky-wrapper nav .container .content{width:90%;display:inline-block;margin:0 auto;padding:15px 13px 15px}div.sticky-wrapper nav .container .content ul{float:right}div.sticky-wrapper nav .container .content ul li{float:left;margin-right:2em}div.sticky-wrapper nav .container .content ul li:last-child{margin-right:0}div.sticky-wrapper nav .logo{margin-top:0em}div.sticky-wrapper nav 
 
-.menu-button{cursor:pointer;display:none;width:130px;float:right}
+.menu-button{cursor:pointer;display:none;width:48px;float:right}
 
 div.sticky-wrapper nav .menu-button p{display:inline-block;margin:0;line-height:2.5em}
 div.sticky-wrapper nav .menu-button svg,div.sticky-wrapper nav .menu-button img{display:inline-block;float:left;margin-right:1em;color:#b4ae24}

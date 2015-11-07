@@ -9,7 +9,7 @@ section.header{
 section.header img{
     position:absolute;
     right:0;
-    bottom:-5em;
+    bottom:-3em;
     display:block
 }
 
@@ -17,6 +17,10 @@ section.header img{
     box-shadow:0 2px 8px rgba(0,0,0,.6);
     padding: 10px;
 }
+.highlighted { color: #b4ae24; 
+                font-size: 1.1em;
+}
+
 
 section.header .slogan{
     font-size:3.4em;
@@ -29,13 +33,13 @@ section.header .slogan{
 }
 
 section.header .subtitle{
-    font-size:1.1em;
-    margin-top:1em;
-    line-height:auto;
+    font-size:1.3em;
+    margin-top:0.2em;
+    line-height:normal;
     font-family: 'Wire One', sans-serif;
 }
 .mySign{
-font-family: 'Great Vibes', cursive;
+    font-family: 'Great Vibes', cursive;
     font-size: 2em;
     
 }
@@ -64,22 +68,30 @@ section.newsletter{
     padding-right: 1em;
     
 }
+
+.customers-logo .item{
+   margin-left:4em;
+    display:block;
+    margin-bottom: 4em;
+}
+
+
+.customers-logo .item img{
+    width:250px;
+   
+    padding-right:0px;
+    
+}
 .mySign{
     text-align: right;
-    height: 60px;
-    font-family: 'Wire One', sans-serif;
-    : 
+    height: 50px;
+   font-family: 'Mr De Haviland', sans-serif;
+    font-size: 30px
 }
 
 section.header .container{
     width:auto;
     height:auto
-}
-
-.customers-logo {
-    margin:2em;
-    display:block;
-    text-align: center
 }
 
 .iconemetier{
@@ -118,19 +130,14 @@ section.itemsBI{
     display: block;*/
 }
 
-.partners-logo {
-    margin:1em;
-    display:flex;
-    text-align: center;
-    border-left: 1px;
-}
+
 
 .item img {
     width:250px
 }
 
 nav #menu-button svg{
-    margin:0;
+    
     width:100%;
     float:right;
     display:block;
@@ -138,6 +145,7 @@ nav #menu-button svg{
 }
 
 nav #menu-button p{
+    
     display:none;
 }
 section.METIERS{
@@ -153,6 +161,32 @@ h2{
 h3{
     color:#b4ae24;
 }
+
+h4 {
+    color: #fff;
+    text-align: left;
+    font-family: 'Wire One', sans-serif;
+    font-size: 1.2em;
+   
+}
+h4:hover {
+    color: #b4ae24;
+    text-align: left;
+    font-family: 'Wire One', sans-serif;
+    font-size: 1.4em;
+    font-style: bold;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.1s ease;
+}
+
+/*.text:hover {
+text-shadow: 0px 0 15px #fff;
+}
+.text {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}*/
+
 
 p{
     text-align:center;
